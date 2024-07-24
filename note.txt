@@ -1,0 +1,16 @@
+backend:
+npm init -y
+
+Required modules:
+npm i express dotenv body-parser cors mongoose
+
+Library Required:
+nodemon
+
+frontend:
+npx create-react-app frontend
+
+install dependencies:
+npm i bootstrap react-icons react-toastify
+
+46
